@@ -1,0 +1,6 @@
+/* src/styles/tailwind.css */
+
+.hexagon {
+    clip-path: polygon(0.63% 51.38%, 50.31% 63%, 100% 51.38%, 100% 100%, 0.63% 100%);
+  }
+  
